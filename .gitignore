@@ -1,0 +1,9 @@
+.git
+.venv
+.DS_Store # macOS specific ignore
+airflow_settings.yaml
+__pycache__/
+astro
+.ipy*
+15.2-dag-dependencies.py
+15-dag-dependencies.py
